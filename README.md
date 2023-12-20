@@ -1,0 +1,3 @@
+# Disable map for players
+Simple mod to disable map
+Вульф, я заебался держать у себя на ЯД все эти блядские моды по три экземпляра...

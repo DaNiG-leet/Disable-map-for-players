@@ -1,0 +1,13 @@
+version=1
+id=2921556931
+title=Disabling map from players
+description=[Google Translated]
+description=The mod disables map from the players.
+description=
+description=Removes the icon and the reaction to pressing the button.
+description=The map is still available to the administration.
+description=ONLY MP!
+description=
+description=[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478][img]https://steamuserimages-a.akamaihd.net/ugc/1822269007325041509/9A7DF10F3A778CF98E9CE7423417E8B6EA687334/?imw=5000&imh=5000[/img][/url]
+tags=Build 41;Interface;Realistic
+visibility=public
